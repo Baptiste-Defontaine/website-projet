@@ -1,0 +1,40 @@
+.cards {
+	display: flex;
+	flex-wrap: wrap;	
+
+}
+
+
+
+
+
+.Card {
+	align-items: center;
+    background: orange;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 13px -11px 28px rgba(0,0,0,0.5);
+    border-radius: 15px;
+    margin: 20px;
+    flex-grow: 1
+}
+
+.Card img{
+
+	border-radius: 10px;
+	width:200px;
+}
+
+#ow{ 
+	background-color: #0656EB;
+ }
+
+#stc2{
+	background-color: #1B2232;
+}
+
+.btn-blue{
+	hover:;
+
+ }
